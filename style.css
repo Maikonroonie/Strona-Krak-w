@@ -1,0 +1,22 @@
+.czerwony{background-color:red; color:white;}
+
+.zielony{background-color:green;}
+.pozycja{margin-left:19.25%;}
+.pozycja{margin-left:19.25%;}
+.menu li {list-style:none; display:inline-flex; align-items:stretch; padding:10px 10%; }
+
+.form-group{
+padding:10px;
+width:255px;
+margin:auto;
+text-align:left;
+}
+.form-group label
+{
+display:block;
+padding-bottom:5px;
+}
+.form-group label.gender
+{
+display:inline;
+}
