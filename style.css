@@ -23,3 +23,15 @@ display:inline;
 .cień{box-shadow: 31px 42px 5px 6px rgba(92,246,255,0.45);
 -webkit-box-shadow: 31px 42px 5px 6px rgba(92,246,255,0.45);
 -moz-box-shadow: 31px 42px 5px 6px rgba(92,246,255,0.45);}
+input:invalid{
+  background-color:#FFAAAA;
+  border-color:#FF5555;
+  color:#f8f8f2;
+  background:#282a36;
+}
+input:valid{
+  background-color:#50fa7b;
+  border-color:#50fa7b;
+  color:#f8f8f2;
+  background:#282a36;
+}
