@@ -20,3 +20,6 @@ padding-bottom:5px;
 {
 display:inline;
 }
+.cień{box-shadow: 31px 42px 5px 6px rgba(92,246,255,0.45);
+-webkit-box-shadow: 31px 42px 5px 6px rgba(92,246,255,0.45);
+-moz-box-shadow: 31px 42px 5px 6px rgba(92,246,255,0.45);}
